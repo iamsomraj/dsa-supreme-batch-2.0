@@ -10,4 +10,4 @@ int main() {
 }
 
 // To execute
-// g++ main.cpp -o main.out && gtimeout 4s ./main.out<inputf.in>outputf.in
+// g++ main.cpp -o main.out && gtimeout 4s ./main.out<inputf.txt>outputf.txt
