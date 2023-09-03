@@ -1,6 +1,6 @@
-# Somraj Mukherjee | DSA Supreme Batch 2.0
+# Somraj Mukherjee | Data Structures & Algorithms Master Course [Supreme 2.0 Batch] | DSA Supreme Batch 2.0
 
-In this repository, I will complete the assignments and practice C++. The sole purpose of this repository is to improve my problem-solving skills.
+In this repository, I will complete the assignments of Data Structures & Algorithms Master Course [Supreme 2.0 Batch] and practice C++. The sole purpose of this repository is to improve my problem-solving skills.
 
 ## Use my C++ template
 
