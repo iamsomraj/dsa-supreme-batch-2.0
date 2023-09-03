@@ -1,0 +1,1 @@
+50 is not a prime number
