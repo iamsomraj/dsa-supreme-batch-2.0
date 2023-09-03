@@ -1,1 +1,1 @@
-Even
+10 is not a prime number
