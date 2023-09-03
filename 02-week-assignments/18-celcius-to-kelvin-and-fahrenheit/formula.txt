@@ -1,0 +1,2 @@
+kelvin = cel + 273.15
+fahren = cel * 1.8 + 32
