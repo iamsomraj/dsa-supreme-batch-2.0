@@ -14,7 +14,7 @@ Following steps are required to use my template:
     git clone https://github.com/iamsomraj/dsa-supreme-batch-2.0.git
 ```
 
-- Check ./1-hello-world-code folder
+- Check ./00-hello-world-sample-code folder
 
 ## Feedback
 
