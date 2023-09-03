@@ -1,0 +1,2 @@
+Left Shift number 1 by K times
+Then, just use bitwise OR
