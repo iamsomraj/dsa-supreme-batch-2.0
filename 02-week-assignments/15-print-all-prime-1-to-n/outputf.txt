@@ -1,0 +1,8 @@
+Prime Number 2
+Prime Number 3
+Not Prime Number 4
+Prime Number 5
+Not Prime Number 6
+Prime Number 7
+Not Prime Number 8
+Not Prime Number 9
